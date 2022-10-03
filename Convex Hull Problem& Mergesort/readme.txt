@@ -1,6 +1,7 @@
 Name: Jason Phung
 Student ID: 1047734
 Email: phungj@uoguelph.ca
+Description: Brute Force vs Mergesort to find inversions
 
 To compile, first type "make clean" to ensure everything is cleaned.
 Then type "make" to compile two executables.
